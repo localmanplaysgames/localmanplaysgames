@@ -1,4 +1,4 @@
-New-ish (and late to the party) data analyst looking to expand my skillset, starting with Python.
+I'd be lying if I said I knew what I was doing
 
 <!---
 localmanplaysgames/localmanplaysgames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
